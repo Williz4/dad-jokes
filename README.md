@@ -10,7 +10,7 @@ Dad jokes that takes dad jokes from the api of https://icanhazdadjoke.com.
 
 ## Setup/Installation Requirements
 
-* Load the page at (https://williz4.github.io/light-neumorphism/). 
+* Load the page at (https://williz4.github.io/dad-jokes/). 
 
 ## Known Bugs
 There are currently no known bugs in this website.
